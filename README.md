@@ -1,3 +1,3 @@
 # resume 
 رزومه
--[resume] (resume)
+-[resume](resume)
